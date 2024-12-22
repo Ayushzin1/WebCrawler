@@ -1,0 +1,18 @@
+{
+  "www.amazon.com": [
+    "https://www.amazon.com/dp/B08F7N8PDP",
+    "https://www.amazon.com/dp/B08F7PTF53",
+    "https://www.amazon.com/dp/B08F7QTDJ4"
+  ],
+  "www.etsy.com": [
+    "https://www.etsy.com/listing/123456789/handmade-ceramic-mug",
+    "https://www.etsy.com/listing/987654321/vintage-leather-wallet",
+    "https://www.etsy.com/listing/246813579/custom-wooden-cutting-board"
+  ],
+  "www.ebay.com": [
+    "https://www.ebay.com/itm/154782468135",
+    "https://www.ebay.com/itm/265892374691",
+    "https://www.ebay.com/itm/185681234567"
+  ]
+}
+
